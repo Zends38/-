@@ -111,8 +111,7 @@ interface Order {
   clientComment?:    string;
   courierComment?:   string;
 }
-
-
+```
 ## 8. Обязательный функционал MVP (must-have)
 
 - Полная серверная валидация Telegram `initData` (защита от подмены пользователя)
